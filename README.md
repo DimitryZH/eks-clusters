@@ -56,3 +56,7 @@ eksctl delete cluster -f <configuration-file.yaml>
 ```
 
 These steps provide a comprehensive guide for deploying Kubernetes clusters in AWS using `eksctl`, tailored to the specific needs of development and production environments.
+
+##  Production Cluster Architecture
+
+![production_cluster](https://github.com/DimitryZH/eks-cluster-script/assets/146372946/1eb5a92a-f0d8-403a-8a74-bf4f64888e87)
